@@ -5,3 +5,7 @@ Feature: Login screen
     When user enters user name and password
     And clicks on login button
     Then user is navigated to home page
+
+    
+    
+    
